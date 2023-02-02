@@ -1,0 +1,11 @@
+C:\Users\herhe\source\repos\GraphPlotter\bin\Debug\GraphPlotter.exe.config
+C:\Users\herhe\source\repos\GraphPlotter\bin\Debug\GraphPlotter.exe
+C:\Users\herhe\source\repos\GraphPlotter\bin\Debug\GraphPlotter.pdb
+C:\Users\herhe\source\repos\GraphPlotter\obj\Debug\GraphPlotter.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\GraphPlotter\obj\Debug\GraphPlotter.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\GraphPlotter\obj\Debug\GraphPlotter.Form1.resources
+C:\Users\herhe\source\repos\GraphPlotter\obj\Debug\GraphPlotter.Properties.Resources.resources
+C:\Users\herhe\source\repos\GraphPlotter\obj\Debug\GraphPlotter.csproj.GenerateResource.cache
+C:\Users\herhe\source\repos\GraphPlotter\obj\Debug\GraphPlotter.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\GraphPlotter\obj\Debug\GraphPlotter.exe
+C:\Users\herhe\source\repos\GraphPlotter\obj\Debug\GraphPlotter.pdb
